@@ -113,7 +113,7 @@ function playWarGame() {
         console.log('Player 1 wins the war!');
     }
 
-
+// Logs the number of rounds and each player's points in the end. //
     console.log('Number of rounds played:', rounds);
     console.log('Player 1 points:', player1Points);
     console.log('Player 2 points:', player2Points);
